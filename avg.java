@@ -14,5 +14,6 @@ class avg {
         int n = arr.length;
          
         System.out.println("Average" + " - " + average(arr, n));
+        System.out.println("Average" + " - " + average(arr, n));
     }
 }
